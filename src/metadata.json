@@ -1,0 +1,1 @@
+{"name": "caribou-resize-workspace", "uuid": "caribou-resize-workspace@simon.schumann.web.de", "description": "Resizes the workspace when Gnome's virual keyboard caribou appears so that it doesn't cover the window the user wants to type in.", "shell-version": ["3.18"]}
